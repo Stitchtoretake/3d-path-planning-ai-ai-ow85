@@ -1,4 +1,4 @@
-# 
+# Principal 3D Path Planning AI extensiones. Con IA en la nube y aumento de datos — optimizado para el máximo rendimiento.
 
 
 
